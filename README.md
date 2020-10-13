@@ -1,13 +1,13 @@
 ## Argon Icons
 <a align='left'>
-  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/128x128/apps/spotify-client.png' width='100'>
-  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/128x128/apps/steam.png' width='100'>
-  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/128x128/apps/minecraft-launcher.png' width='100'>
-  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/128x128/apps/discord.png' width='100'>
-  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/128x128/apps/nvidia-settings.png' width='100'>
-  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/128x128/apps/org.gnome.Calculator.png' width='10%'>
-  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/128x128/apps/psensor.png' width='100'>
-  <img align='top' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/128x128/apps/org.gnome.Boxes.png' width='100'>
+  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/spotify-client.svg' width='100'>
+  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/steam.svg' width='100'>
+  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/minecraft-launcher.svg' width='100'>
+  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/discord.png' width='100'>
+  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/nvidia-settings.svg' width='100'>
+  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/org.gnome.Calculator.svg' width='10%'>
+  <img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/psensor.svg' width='100'>
+  <img align='top' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/org.gnome.Boxes.svg' width='100'>
 </a>
 
 ## Stats
