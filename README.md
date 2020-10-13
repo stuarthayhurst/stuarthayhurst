@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/spotify-client.svg' width='100'>
+<img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/steam.svg' width='100'>
+<img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/minecraft-launcher.svg' width='100'>
+<img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/discord.svg' width='100'>
+<img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/nvidia-settings.svg' width='100'>
+<img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/org.gnome.Calculator.svg' width='100'>
+<img align='left' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/psensor.svg' width='100'>
+<img align='top' src='https://raw.githubusercontent.com/Dragon8oy/argon-icon-theme/master/argon/scalable/apps/org.gnome.Boxes.svg' width='100'>
 
-<!--
-**Dragon8oy/Dragon8oy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Dragon8oy's Stats](https://github-readme-stats.vercel.app/api?username=Dragon8oy&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/Dragon8oy)
+[![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon8oy&hide_border=true&theme=dark&layout=compact)](https://github.com/Dragon8oy)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello :)
+  - I make small projects, scripts and pieces of software in my free time
+  - Check out [argon icon theme](https://github.com/Dragon8oy/argon-icon-theme), [kernel-notify](https://github.com/Dragon8oy/kernel-notify), or maybe my [wallpapers](https://github.com/Dragon8oy/dotfiles/tree/master/Components/Wallpapers)?
