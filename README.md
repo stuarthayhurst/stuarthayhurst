@@ -16,4 +16,4 @@
 
 ## Hello :)
   - I make small projects, scripts and pieces of software in my free time
-  - Check out [argon icon theme](https://github.com/Dragon8oy/argon-icon-theme), [kernel-notify](https://github.com/Dragon8oy/kernel-notify), or maybe my [wallpapers](https://github.com/Dragon8oy/dotfiles/tree/master/Components/Wallpapers)? Thanks :)
+  - Check out [argon icon theme](https://github.com/Dragon8oy/argon-icon-theme), [kernel-notify](https://github.com/Dragon8oy/kernel-notify), or maybe my [wallpapers](https://github.com/Dragon8oy/argon-wallpapers)? Thanks :)
