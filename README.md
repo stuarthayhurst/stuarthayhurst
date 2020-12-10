@@ -15,5 +15,5 @@
 [![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon8oy&hide_border=true&theme=dark&layout=compact)](https://github.com/Dragon8oy)
 
 ## Hello :)
-  - I make small projects, scripts and pieces of software in my free time
+  - I make small projects, scripts and themes in my free time
   - Check out [argon icon theme](https://github.com/Dragon8oy/argon-icon-theme), [kernel-notify](https://github.com/Dragon8oy/kernel-notify), or maybe my [wallpapers](https://github.com/Dragon8oy/argon-wallpapers)? Thanks :)
