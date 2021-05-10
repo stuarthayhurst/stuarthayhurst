@@ -16,4 +16,4 @@
 
 ## Hello :)
   - I make small projects, scripts and themes in my free time
-  - Check out [argon icon theme](https://github.com/stuarthayhurst/argon-icon-theme), [kernel-notify](https://github.com/stuarthayhurst/kernel-notify), or maybe my [wallpapers](https://github.com/stuarthayhurst/argon-wallpapers)? Thanks :)
+  - Check out [argon icon theme](https://github.com/stuarthayhurst/argon-icon-theme), [argon grub theme](https://github.com/stuarthayhurst/argon-grub-theme), or maybe my [wallpapers](https://github.com/stuarthayhurst/argon-wallpapers)? Thanks :)
