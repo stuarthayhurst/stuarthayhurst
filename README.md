@@ -14,13 +14,17 @@
 [![Stuart's Stats](https://github-readme-stats.vercel.app/api?username=stuarthayhurst&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/stuarthayhurst)
 [![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=stuarthayhurst&hide_border=true&theme=dark&layout=compact)](https://github.com/stuarthayhurst)
 
-## My Projects:
- - [Argon Icon Theme](https://github.com/stuarthayhurst/argon-icon-theme): A minimal icon theme for GNOME shell
- - [Argon GRUB Theme](https://github.com/stuarthayhurst/argon-grub-theme): A customisable, minimal and elegant theme for GRUB, with selectable fonts, sizes and wallpapers
- - [Argon Wallpapers](https://github.com/stuarthayhurst/argon-wallpapers): A stylish set of wallpapers for my other projects or personal use
- - [Remove App Menu Extension](https://github.com/stuarthayhurst/remove-app-menu-extension): A GNOME extension to remove the app menu in the top right
- - [Alphabetical App Grid Extension](https://github.com/stuarthayhurst/alphabetical-grid-extension): A GNOME extenion to restore the alphabetical ordering of the app grid
- - [Brexit Counter](https://github.com/stuarthayhurst/brexit-counter): A joke website to count the time since Brexit, with 'inspirational' quotes
+<details>
+  <summary>My Projects:</summary>
+  <ul>
+    <li><a href="https://github.com/stuarthayhurst/argon-icon-theme">Argon Icon Theme</a>: A minimal icon theme for GNOME shell</li>
+    <li><a href="https://github.com/stuarthayhurst/argon-grub-theme">Argon GRUB Theme</a>: A customisable, minimal and elegant theme for GRUB, with selectable fonts, sizes and wallpapers</li>
+    <li><a href="https://github.com/stuarthayhurst/argon-wallpapers">Argon Wallpapers</a>: A stylish set of wallpapers for my other projects or personal use</li>
+    <li><a href="https://github.com/stuarthayhurst/remove-app-menu-extension">Remove App Menu Extension</a>: A GNOME extension to remove the app menu in the top right</li>
+    <li><a href="https://github.com/stuarthayhurst/alphabetical-grid-extension">Alphabetical App Grid Extension</a>: A GNOME extenion to restore the alphabetical ordering of the app grid</li>
+    <li><a href="https://github.com/stuarthayhurst/brexit-counter">Brexit Counter</a>: A joke website to count the time since Brexit, with 'inspirational' quotes</li>
+  </ul>
+</details>
 
 ## Hello :)
   - I make small projects, scripts and themes in my free time
