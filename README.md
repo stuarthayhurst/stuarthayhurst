@@ -3,7 +3,7 @@
   <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/kernel-notify.svg' width='10%'>
   <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/steam.svg' width='10%'>
   <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/minecraft-launcher.svg' width='10%'>
-  <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/gnome-mines.svg' width='10%'>
+  <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/org.gnome.Mines.svg' width='10%'>
   <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/org.gnome.Nautilus.svg' width='10%'>
   <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/org.freedesktop.Piper.svg' width='10%'>
   <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/org.remmina.Remmina.svg' width='10%'>
