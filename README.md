@@ -29,3 +29,6 @@
 ## Hello :)
   - I make small projects, scripts and themes in my free time
   - Check out [argon icon theme](https://github.com/stuarthayhurst/argon-icon-theme), [argon grub theme](https://github.com/stuarthayhurst/argon-grub-theme), or maybe my [wallpapers](https://github.com/stuarthayhurst/argon-wallpapers)? Thanks :)
+  - Donations are greatly appreciated :)
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=G2REEPPNZK9GN)
