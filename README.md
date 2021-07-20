@@ -12,7 +12,7 @@
 
 ## Stats
 [![Stuart's Stats](https://github-readme-stats.vercel.app/api?username=stuarthayhurst&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/stuarthayhurst)
-[![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=stuarthayhurst&hide_border=true&theme=dark&layout=compact)](https://github.com/stuarthayhurst)
+[![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=stuarthayhurst&langs_count=10&hide_border=true&theme=dark&layout=compact)](https://github.com/stuarthayhurst)
 
 <details>
   <summary>My Projects:</summary>
