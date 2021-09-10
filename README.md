@@ -21,7 +21,8 @@
     <li><a href="https://github.com/stuarthayhurst/argon-grub-theme">Argon GRUB Theme</a>: A customisable, minimal and elegant theme for GRUB, with selectable fonts, sizes and wallpapers</li>
     <li><a href="https://github.com/stuarthayhurst/argon-wallpapers">Argon Wallpapers</a>: A stylish set of wallpapers for my other projects or personal use</li>
     <li><a href="https://github.com/stuarthayhurst/remove-app-menu-extension">Remove App Menu Extension</a>: A GNOME extension to remove the app menu in the top right</li>
-    <li><a href="https://github.com/stuarthayhurst/alphabetical-grid-extension">Alphabetical App Grid Extension</a>: A GNOME extenion to restore the alphabetical ordering of the app grid</li>
+    <li><a href="https://github.com/stuarthayhurst/alphabetical-grid-extension">Alphabetical App Grid Extension</a>: A GNOME extension to restore the alphabetical ordering of the app grid</li>
+    <li><a href="https://github.com/stuarthayhurst/privacy-menu-extension">Privacy Menu Extension</a>: A GNOME extension to add a quick access menu for privacy settings</li>
     <li><a href="https://github.com/stuarthayhurst/brexit-counter">Brexit Counter</a>: A joke website to count the time since Brexit, with 'inspirational' quotes</li>
   </ul>
 </details>
