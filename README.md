@@ -14,15 +14,19 @@
 [![Stuart's Stats](https://github-readme-stats.vercel.app/api?username=stuarthayhurst&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=121212)](https://github.com/stuarthayhurst)
 [![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=stuarthayhurst&langs_count=10&hide_border=true&theme=dark&layout=compact&bg_color=121212)](https://github.com/stuarthayhurst)
 
+<h2>My Projects:</h2>
 <details>
-  <summary>My Projects:</summary>
+  <summary>Click me :)</summary>
   <ul>
+    <h4>Themes + wallpapers:</h4>
     <li><a href="https://github.com/stuarthayhurst/argon-icon-theme">Argon Icon Theme</a>: A minimal icon theme for GNOME shell</li>
     <li><a href="https://github.com/stuarthayhurst/argon-grub-theme">Argon GRUB Theme</a>: A customisable, minimal and elegant theme for GRUB, with selectable fonts, sizes and wallpapers</li>
     <li><a href="https://github.com/stuarthayhurst/argon-wallpapers">Argon Wallpapers</a>: A stylish set of wallpapers for my other projects or personal use</li>
+    <h4>GNOME Extensions:</h4>
     <li><a href="https://github.com/stuarthayhurst/remove-app-menu-extension">Remove App Menu Extension</a>: A GNOME extension to remove the app menu in the top right</li>
     <li><a href="https://github.com/stuarthayhurst/alphabetical-grid-extension">Alphabetical App Grid Extension</a>: A GNOME extension to restore the alphabetical ordering of the app grid</li>
     <li><a href="https://github.com/stuarthayhurst/privacy-menu-extension">Privacy Menu Extension</a>: A GNOME extension to add a quick access menu for privacy settings</li>
+    <h4>Other projects:</h4>
     <li><a href="https://github.com/stuarthayhurst/brexit-counter">Brexit Counter</a>: A joke website to count the time since Brexit, with 'inspirational' quotes</li>
   </ul>
 </details>
