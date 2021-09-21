@@ -37,6 +37,18 @@
 
 ## Hello :)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=stuarthayhurst.stuarthayhurst) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=G2REEPPNZK9GN)
+
+<p align="center" margin="30px">
+  <span><img src="images/javascript.png"></span>
+  <span><img src="images/python.png"></span>
+  <span><img src="images/c++.png"></span>
+  <span><img src="images/bash.png"></span>
+  <span><img src="images/html.png"></span>
+  <span><img src="images/git.png"></span>
+  <span><img src="images/inkscape.png"></span>
+  <span><img src="images/debian.png"></span>
+</p>
+
   - I make small projects, scripts and themes in my free time
   - Check out [argon icon theme](https://github.com/stuarthayhurst/argon-icon-theme), [argon grub theme](https://github.com/stuarthayhurst/argon-grub-theme), or maybe some of my [wallpapers](https://github.com/stuarthayhurst/argon-wallpapers) and [extensions](https://github.com/stuarthayhurst/alphabetical-grid-extension)? Thanks :)
   - Donations are greatly appreciated :)
