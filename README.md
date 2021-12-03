@@ -39,7 +39,7 @@
 </details>
 
 ## Hello :)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=G2REEPPNZK9GN)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/stuartahayhurst)
 
 <p align="center" margin="30px">
   <span><img src="images/javascript.png"></span>
