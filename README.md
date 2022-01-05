@@ -1,7 +1,7 @@
 ## Argon Icons
 <a align='left'>
   <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/kernel-notify.svg' width='10%'>
-  <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/gparted.svg' width='10%'>
+  <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/256x256/apps/gparted.png' width='10%'>
   <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/org.gnome.Photos.svg' width='10%'>
   <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/org.gnome.Mines.svg' width='10%'>
   <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/org.gnome.Nautilus.svg' width='10%'>
