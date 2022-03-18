@@ -47,6 +47,7 @@
   <span><img src="images/c++.png"></span>
   <span><img src="images/bash.png"></span>
   <span><img src="images/html.png"></span>
+  <span><img src="images/opengl.png"></span>
   <span><img src="images/git.png"></span>
   <span><img src="images/inkscape.png"></span>
   <span><img src="images/debian.png"></span>
