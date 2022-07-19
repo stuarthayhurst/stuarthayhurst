@@ -18,7 +18,7 @@
 
 <h2>My Projects:</h2>
 <details>
-  <summary>Click me :)</summary>
+  <summary>Click me...</summary>
   <ul>
     <h4>Themes + wallpapers:</h4>
     <li><a href="https://github.com/stuarthayhurst/argon-icon-theme">Argon Icon Theme</a>: A minimal icon theme for GNOME shell</li>
@@ -54,5 +54,5 @@
 </p>
 
   - I make small projects, scripts and themes in my free time
-  - Check out [argon icon theme](https://github.com/stuarthayhurst/argon-icon-theme), [argon grub theme](https://github.com/stuarthayhurst/argon-grub-theme), or maybe some of my [wallpapers](https://github.com/stuarthayhurst/argon-wallpapers) and [extensions](https://github.com/stuarthayhurst/alphabetical-grid-extension)? Thanks :)
+  - Check out [argon icon theme](https://github.com/stuarthayhurst/argon-icon-theme), [argon grub theme](https://github.com/stuarthayhurst/argon-grub-theme), or maybe some of my [wallpapers](https://github.com/stuarthayhurst/argon-wallpapers) and [extensions](https://github.com/stuarthayhurst/alphabetical-grid-extension)?
   - Donations are greatly appreciated :)
