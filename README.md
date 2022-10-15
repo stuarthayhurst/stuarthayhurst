@@ -54,5 +54,5 @@
 </p>
 
   - I make small projects, scripts and themes in my free time
-  - Check out [argon icon theme](https://github.com/stuarthayhurst/argon-icon-theme), [argon grub theme](https://github.com/stuarthayhurst/argon-grub-theme), or maybe some of my [wallpapers](https://github.com/stuarthayhurst/argon-wallpapers) and [extensions](https://github.com/stuarthayhurst/alphabetical-grid-extension)?
+  - Check out [argon grub theme](https://github.com/stuarthayhurst/argon-grub-theme), [ammonite graphics engine](https://github.com/stuarthayhurst/ammonite-engine), or maybe some of my [wallpapers](https://github.com/stuarthayhurst/argon-wallpapers) and [extensions](https://github.com/stuarthayhurst/alphabetical-grid-extension)?
   - Donations are greatly appreciated :)
