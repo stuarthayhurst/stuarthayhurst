@@ -55,5 +55,6 @@
 
   - I make small projects, scripts and themes in my free time
     - Currently, I'm interested in machine learning and graphics programming
+    - I'm also randomly contributing to some GNOME extensions
   - Check out [argon grub theme](https://github.com/stuarthayhurst/argon-grub-theme), [ammonite graphics engine](https://github.com/stuarthayhurst/ammonite-engine), or maybe some of my [wallpapers](https://github.com/stuarthayhurst/argon-wallpapers) and [extensions](https://github.com/stuarthayhurst/alphabetical-grid-extension)?
   - Any donations are greatly appreciated :)
