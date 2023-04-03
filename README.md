@@ -25,7 +25,7 @@
   <h4>GNOME Extensions:</h4>
     <li><a href="https://github.com/stuarthayhurst/remove-app-menu-extension">Remove App Menu Extension</a>: A GNOME extension to remove the app menu in the top right</li>
     <li><a href="https://github.com/stuarthayhurst/alphabetical-grid-extension">Alphabetical App Grid Extension</a>: A GNOME extension to restore the alphabetical ordering of the app grid</li>
-    <li><a href="https://github.com/stuarthayhurst/privacy-menu-extension">Privacy Quick Settings Menu Extension</a>: A GNOME extension to add a quick access menu for privacy settings</li>
+    <li><a href="https://github.com/stuarthayhurst/privacy-menu-extension">Privacy Quick Settings Extension</a>: A GNOME extension to add quick settings toggles for privacy settings</li>
   <h4>Other projects</h4>
     <li><a href="https://github.com/stuarthayhurst/lmc-simulator">Little Man Computer Simulator</a>: Execute Little Man Computer assembly</li>
   <h4>Themes + wallpapers:</h4>
