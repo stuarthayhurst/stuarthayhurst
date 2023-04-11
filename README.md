@@ -22,6 +22,7 @@
   <ul>
   <h4>Main projects:</h4>
     <li><a href="https://github.com/stuarthayhurst/ammonite-engine">Ammonite Engine</a>: An OpenGL based graphics engine for experiments</li>
+    <li><a href="https://github.com/stuarthayhurst/corsair-void-driver">Corsair Void Driver</a>: A Linux kernel device driver for the Corsair Void headset family</li>
   <h4>GNOME Extensions:</h4>
     <li><a href="https://github.com/stuarthayhurst/remove-app-menu-extension">Remove App Menu Extension</a>: A GNOME extension to remove the app menu in the top right</li>
     <li><a href="https://github.com/stuarthayhurst/alphabetical-grid-extension">Alphabetical App Grid Extension</a>: A GNOME extension to restore the alphabetical ordering of the app grid</li>
