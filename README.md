@@ -29,6 +29,7 @@
     <li><a href="https://github.com/stuarthayhurst/privacy-menu-extension">Privacy Quick Settings Extension</a>: A GNOME extension to add quick settings toggles for privacy settings</li>
   <h4>Other projects</h4>
     <li><a href="https://github.com/stuarthayhurst/lmc-simulator">Little Man Computer Simulator</a>: Execute Little Man Computer assembly</li>
+    <li><a href="https://github.com/stuarthayhurst/battleships">Battleships Experiments</a>: Battleships related experiments, including compute code and an advanced opponent</li>
   <h4>Themes + wallpapers:</h4>
     <li><a href="https://github.com/stuarthayhurst/argon-icon-theme">Argon Icon Theme</a>: A minimal icon theme for GNOME shell</li>
     <li><a href="https://github.com/stuarthayhurst/argon-grub-theme">Argon GRUB Theme</a>: A customisable but minimal theme for GRUB, with selectable fonts, sizes and wallpapers</li>
