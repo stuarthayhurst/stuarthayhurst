@@ -52,8 +52,8 @@
   <span><img src="images/debian.png"></span>
 </p>
 
-  - I make small projects, scripts and themes in my free time
-    - Currently, I'm interested in machine learning and graphics programming
-    - I'm also randomly contributing to some GNOME extensions
+  - I make small projects and contributions in my free time
+    - Currently, I'm interested in kernel programming, graphics programming and machine learning
+    - I'm also contributing to and maintaining a handful GNOME extensions
   - Check out [argon grub theme](https://github.com/stuarthayhurst/argon-grub-theme), [ammonite graphics engine](https://github.com/stuarthayhurst/ammonite-engine), or maybe some of my [wallpapers](https://github.com/stuarthayhurst/argon-wallpapers) and [extensions](https://github.com/stuarthayhurst/alphabetical-grid-extension)?
   - Any donations are greatly appreciated :)
