@@ -23,13 +23,13 @@
   <h4>Main projects:</h4>
     <li><a href="https://github.com/stuarthayhurst/ammonite-engine">Ammonite Engine</a>: An OpenGL based graphics engine for experiments</li>
     <li><a href="https://github.com/stuarthayhurst/corsair-void-driver">Corsair Void Driver</a>: A Linux kernel device driver for the Corsair Void headset family</li>
+  <h4>Other projects</h4>
+    <li><a href="https://github.com/stuarthayhurst/lmc-simulator">Little Man Computer Simulator</a>: Execute Little Man Computer assembly</li>
+    <li><a href="https://github.com/stuarthayhurst/battleships">Battleships Experiments</a>: Battleships related experiments, including compute code and an advanced opponent</li>
   <h4>GNOME Extensions:</h4>
     <li><a href="https://github.com/stuarthayhurst/remove-app-menu-extension">Remove App Menu Extension</a>: A GNOME extension to remove the app menu in the top right</li>
     <li><a href="https://github.com/stuarthayhurst/alphabetical-grid-extension">Alphabetical App Grid Extension</a>: A GNOME extension to restore the alphabetical ordering of the app grid</li>
     <li><a href="https://github.com/stuarthayhurst/privacy-menu-extension">Privacy Quick Settings Extension</a>: A GNOME extension to add quick settings toggles for privacy settings</li>
-  <h4>Other projects</h4>
-    <li><a href="https://github.com/stuarthayhurst/lmc-simulator">Little Man Computer Simulator</a>: Execute Little Man Computer assembly</li>
-    <li><a href="https://github.com/stuarthayhurst/battleships">Battleships Experiments</a>: Battleships related experiments, including compute code and an advanced opponent</li>
   <h4>Themes + wallpapers:</h4>
     <li><a href="https://github.com/stuarthayhurst/argon-icon-theme">Argon Icon Theme</a>: A minimal icon theme for GNOME shell</li>
     <li><a href="https://github.com/stuarthayhurst/argon-grub-theme">Argon GRUB Theme</a>: A customisable but minimal theme for GRUB, with selectable fonts, sizes and wallpapers</li>
