@@ -43,6 +43,7 @@
 <p align="center" margin="30px">
   <span><img src="images/javascript.png"></span>
   <span><img src="images/python.png"></span>
+  <span><img src="images/c.png"></span>
   <span><img src="images/c++.png"></span>
   <span><img src="images/bash.png"></span>
   <span><img src="images/html.png"></span>
