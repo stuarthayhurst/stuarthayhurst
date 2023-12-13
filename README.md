@@ -25,7 +25,7 @@
     <li><a href="https://github.com/stuarthayhurst/corsair-void-driver">Corsair Void Driver</a>: A Linux kernel device driver for the Corsair Void headset family</li>
   <h4>Other projects</h4>
     <li><a href="https://github.com/stuarthayhurst/lmc-simulator">Little Man Computer Simulator</a>: Execute Little Man Computer assembly</li>
-    <li><a href="https://github.com/stuarthayhurst/battleships">Battleships Experiments</a>: Battleships related experiments, including compute code and an advanced opponent</li>
+    <li><a href="https://github.com/stuarthayhurst/battleships">Battleships Experiments</a>: Battleships related experiments, including an advanced opponent and vectorised compute code</li>
     <li><a href="https://github.com/stuarthayhurst/simple-morse-trainer">Simple Morse Trainer</a>: Simple implementation of the Koch method to learn Morse code</li>
   <h4>GNOME Extensions:</h4>
     <li><a href="https://github.com/stuarthayhurst/alphabetical-grid-extension">Alphabetical App Grid Extension</a>: A GNOME extension to restore the alphabetical ordering of the app grid</li>
