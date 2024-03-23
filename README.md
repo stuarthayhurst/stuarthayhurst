@@ -29,7 +29,7 @@
     <li><a href="https://github.com/stuarthayhurst/anagram-solver">Anagram Solver</a>: Solve anagrams using a simple word list</li>
     <li><a href="https://github.com/stuarthayhurst/simple-morse-trainer">Simple Morse Trainer</a>: Simple implementation of the Koch method to learn Morse code</li>
   <h4>GNOME Extensions:</h4>
-    <li><a href="https://github.com/stuarthayhurst/alphabetical-grid-extension">Alphabetical App Grid Extension</a>: A GNOME extension to restore the alphabetical ordering of the app grid</li>
+    <li><a href="https://github.com/stuarthayhurst/alphabetical-grid-extension">Alphabetical App Grid Extension</a>: A GNOME extension to alphabetically order the app grid and folders</li>
     <li><a href="https://github.com/stuarthayhurst/privacy-menu-extension">Privacy Quick Settings Extension</a>: A GNOME extension to add quick settings toggles for privacy settings</li>
     <li><a href="https://github.com/stuarthayhurst/remove-app-menu-extension">Remove App Menu Extension</a>: A GNOME extension to remove the app menu in the top right</li>
   <h4>Themes + wallpapers:</h4>
