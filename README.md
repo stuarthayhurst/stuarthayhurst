@@ -47,6 +47,6 @@
   - I make small projects and contributions in my free time
     - Currently, I'm interested in kernel programming, graphics programming and machine learning
     - I'm also contributing to and maintaining a handful GNOME extensions
-    - Additionally, I maintain a driver for Corsair Void headsets and try to improve Linux on the devices I use
+    - Additionally, I maintain a [driver](https://github.com/stuarthayhurst/corsair-void-driver) for Corsair Void headsets and try to improve Linux on the devices I use
   - Check out [ammonite graphics engine](https://github.com/stuarthayhurst/ammonite-engine), [argon grub theme](https://github.com/stuarthayhurst/argon-grub-theme), or maybe some of my [wallpapers](https://github.com/stuarthayhurst/argon-wallpapers) and [extensions](https://github.com/stuarthayhurst/alphabetical-grid-extension)?
   - Any donations or sponsors are greatly appreciated :)
