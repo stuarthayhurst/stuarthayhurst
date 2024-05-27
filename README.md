@@ -1,16 +1,4 @@
-## Argon Icons
-<a align='left'>
-  <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/kernel-notify.svg' width='10%'>
-  <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/gparted.svg' width='10%'>
-  <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/org.gnome.Photos.svg' width='10%'>
-  <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/org.gnome.Mines.svg' width='10%'>
-  <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/org.gnome.Nautilus.svg' width='10%'>
-  <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/org.freedesktop.Piper.svg' width='10%'>
-  <img align='left' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/org.gnome.Screenshot.svg' width='10%'>
-  <img align='top' src='https://raw.githubusercontent.com/stuarthayhurst/argon-icon-theme/master/argon/scalable/apps/org.gnome.Boxes.svg' width='10%'>
-</a>
-
-## Stats
+## Contribution Statistics
 <a align='left'>
   <img align='left' src='https://github-readme-stats.vercel.app/api?username=stuarthayhurst&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=121212' width='55%'>
   <img align='top' src='https://github-readme-stats.vercel.app/api/top-langs/?username=stuarthayhurst&langs_count=10&hide_border=true&theme=dark&layout=compact&bg_color=121212' width='40%'>
