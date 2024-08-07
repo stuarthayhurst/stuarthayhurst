@@ -34,7 +34,13 @@
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1"><inkscape:grid
        type="xygrid"
-       id="grid8781" /></sodipodi:namedview><defs
+       id="grid8781"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" /></sodipodi:namedview><defs
      id="defs2" /><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
