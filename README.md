@@ -1,7 +1,7 @@
 ## Contribution Statistics
 <a align='left'>
-  <img align='left' src='https://github-readme-stats.vercel.app/api?username=stuarthayhurst&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=121212' width='55%'>
-  <img align='top' src='https://github-readme-stats.vercel.app/api/top-langs/?username=stuarthayhurst&langs_count=10&hide_border=true&theme=dark&layout=compact&bg_color=121212' width='40%'>
+  <img align='left' src='https://github-readme-stats.vercel.app/api?username=stuarthayhurst&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=121212' height='200px'>
+  <img align='top' src='https://github-readme-stats.vercel.app/api/top-langs/?username=stuarthayhurst&langs_count=10&hide_border=true&theme=dark&layout=compact&bg_color=121212' height='200px'>
 </p>
 
 <h2>My Projects:</h2>
