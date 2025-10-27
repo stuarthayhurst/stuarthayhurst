@@ -29,8 +29,6 @@
 </details>
 
 ## Hello :)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/stuartahayhurst)
-
 <p align="center" margin="30px">
   <span><img src="images/javascript.png"></span>
   <span><img src="images/python.png"></span>
