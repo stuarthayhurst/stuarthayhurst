@@ -13,6 +13,7 @@
   <h4>Other projects</h4>
     <li><a href="https://github.com/stuarthayhurst/cellular-automata">Cellular Automata Simulator</a>: Visualise 2D cellular automaton simulations on 3D objects</li>
     <li><a href="https://github.com/stuarthayhurst/lmc-simulator">Little Man Computer Simulator</a>: Execute Little Man Computer assembly</li>
+    <li><a href="https://github.com/stuarthayhurst/endless-snow-plugin">Endless Snow Plugin</a>: Minecraft plugin to allow endless snow pile-up, add persistent storms and tweak the world generation</li>
     <li><a href="https://github.com/stuarthayhurst/battleships">Battleships Experiments</a>: Battleships related experiments, including an advanced opponent and vectorised compute code</li>
     <li><a href="https://github.com/stuarthayhurst/anagram-solver">Anagram Solver</a>: Solve anagrams using a simple word list</li>
     <li><a href="https://github.com/stuarthayhurst/simple-morse-trainer">Simple Morse Trainer</a>: Simple implementation of the Koch method to learn Morse code</li>
