@@ -1,8 +1,3 @@
-<a align='left'>
-  <img alt='' align='left' src='https://github-readme-stats.vercel.app/api?username=stuarthayhurst&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=121212' height='200px'>
-  <img alt='' align='top' src='https://github-readme-stats.vercel.app/api/top-langs/?username=stuarthayhurst&langs_count=10&hide_border=true&theme=dark&layout=compact&bg_color=121212' height='200px'>
-</p>
-
 <h2>My Projects:</h2>
 <details>
   <summary>Click me...</summary>
