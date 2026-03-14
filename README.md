@@ -10,6 +10,7 @@
     <li><a href="https://github.com/stuarthayhurst/lmc-simulator">Little Man Computer Simulator</a>: Execute Little Man Computer assembly</li>
     <li><a href="https://github.com/stuarthayhurst/endless-snow-plugin">Endless Snow Plugin</a>: Minecraft plugin to allow endless snow pile-up, add persistent storms and tweak the world generation</li>
     <li><a href="https://github.com/stuarthayhurst/battleships">Battleships Experiments</a>: Battleships related experiments, including an advanced opponent and vectorised compute code</li>
+    <li><a href="https://github.com/stuarthayhurst/bad-hash-museum">Bad Hash Museum</a>: A collection of bad hashing algorithms and related tools</li>
     <li><a href="https://github.com/stuarthayhurst/anagram-solver">Anagram Solver</a>: Solve anagrams using a simple word list</li>
   <h4>GNOME Extensions:</h4>
     <li><a href="https://github.com/stuarthayhurst/alphabetical-grid-extension">Alphabetical App Grid Extension</a>: A GNOME extension to alphabetically order the app grid and folders</li>
