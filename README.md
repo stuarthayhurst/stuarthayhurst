@@ -11,7 +11,6 @@
     <li><a href="https://github.com/stuarthayhurst/endless-snow-plugin">Endless Snow Plugin</a>: Minecraft plugin to allow endless snow pile-up, add persistent storms and tweak the world generation</li>
     <li><a href="https://github.com/stuarthayhurst/battleships">Battleships Experiments</a>: Battleships related experiments, including an advanced opponent and vectorised compute code</li>
     <li><a href="https://github.com/stuarthayhurst/anagram-solver">Anagram Solver</a>: Solve anagrams using a simple word list</li>
-    <li><a href="https://github.com/stuarthayhurst/simple-morse-trainer">Simple Morse Trainer</a>: Simple implementation of the Koch method to learn Morse code</li>
   <h4>GNOME Extensions:</h4>
     <li><a href="https://github.com/stuarthayhurst/alphabetical-grid-extension">Alphabetical App Grid Extension</a>: A GNOME extension to alphabetically order the app grid and folders</li>
     <li><a href="https://github.com/stuarthayhurst/privacy-menu-extension">Privacy Quick Settings Extension</a>: A GNOME extension to add quick settings toggles for privacy settings</li>
