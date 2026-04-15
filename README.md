@@ -9,6 +9,7 @@
     <li><a href="https://github.com/stuarthayhurst/cellular-automata">Cellular Automata Simulator</a>: Visualise 2D cellular automaton simulations on 3D objects</li>
     <li><a href="https://github.com/stuarthayhurst/lmc-simulator">Little Man Computer Simulator</a>: Execute Little Man Computer assembly</li>
     <li><a href="https://github.com/stuarthayhurst/endless-snow-plugin">Endless Snow Plugin</a>: Minecraft plugin to allow endless snow pile-up, add persistent storms and tweak the world generation</li>
+    <li><a href="https://github.com/stuarthayhurst/crystal-assembly-viewer">Crystal Assembly Viewer</a>: Locally inspect the assembly from multiple compilers at the same time</li>
     <li><a href="https://github.com/stuarthayhurst/battleships">Battleships Experiments</a>: Battleships related experiments, including an advanced opponent and vectorised compute code</li>
     <li><a href="https://github.com/stuarthayhurst/bad-hash-museum">Bad Hash Museum</a>: A collection of bad hashing algorithms and related tools</li>
     <li><a href="https://github.com/stuarthayhurst/anagram-solver">Anagram Solver</a>: Solve anagrams using a simple word list</li>
