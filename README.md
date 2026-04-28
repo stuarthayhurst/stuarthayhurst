@@ -12,7 +12,6 @@
     <li><a href="https://github.com/stuarthayhurst/crystal-assembly-viewer">Crystal Assembly Viewer</a>: Locally inspect the assembly from multiple compilers at the same time</li>
     <li><a href="https://github.com/stuarthayhurst/battleships">Battleships Experiments</a>: Battleships related experiments, including an advanced opponent and vectorised compute code</li>
     <li><a href="https://github.com/stuarthayhurst/bad-hash-museum">Bad Hash Museum</a>: A collection of bad hashing algorithms and related tools</li>
-    <li><a href="https://github.com/stuarthayhurst/anagram-solver">Anagram Solver</a>: Solve anagrams using a simple word list</li>
   <h4>GNOME Extensions:</h4>
     <li><a href="https://github.com/stuarthayhurst/alphabetical-grid-extension">Alphabetical App Grid Extension</a>: A GNOME extension to alphabetically order the app grid and folders</li>
     <li><a href="https://github.com/stuarthayhurst/privacy-menu-extension">Privacy Quick Settings Extension</a>: A GNOME extension to add quick settings toggles for privacy settings</li>
