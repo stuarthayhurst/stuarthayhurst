@@ -38,7 +38,6 @@
   <span><img src="images/debian.png"></span>
 </p>
 
-  - Studying at the University of Nottingham
   - I write small projects and contributions in my free time
     - Currently, I'm interested in kernel programming, graphics programming and AVX / SIMD optimisation
     - I'm also contributing to and maintaining a handful GNOME extensions
