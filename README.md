@@ -5,6 +5,7 @@
   <h4>Main projects:</h4>
     <li><a href="https://github.com/stuarthayhurst/ammonite-engine">Ammonite Engine</a>: An OpenGL based graphics engine for experiments</li>
     <li><a href="https://github.com/stuarthayhurst/corsair-void-driver">Corsair Void Driver</a>: A Linux kernel device driver for the Corsair Void headset family</li>
+    <li><a href="https://github.com/stuarthayhurst/libtangle">libtangle</a>: A C++ library to provide a thread pool and synchronised output helpers</li>
   <h4>Other projects</h4>
     <li><a href="https://github.com/stuarthayhurst/cellular-automata">Cellular Automata Simulator</a>: Visualise 2D cellular automaton simulations on 3D objects</li>
     <li><a href="https://github.com/stuarthayhurst/lmc-simulator">Little Man Computer Simulator</a>: Execute Little Man Computer assembly</li>
